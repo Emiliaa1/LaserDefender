@@ -5,6 +5,14 @@ ______________________________________
 
 <h2>Jocul poate fi instalat de aici: <a href="https://github.com/Emiliaa1/LaserDefender/blob/main/Laser%20Defender.exe">https://github.com/Emiliaa1/LaserDefender/blob/main/Laser%20Defender.exe</a>
 </h2>
+
+<h2>Pachete de resurse externe utilizate + alte resurse:</h2>
+<li>https://kenney.nl/assets/space-shooter-redux</li>
+<li>https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=12&sort_by=count&sort_order=DESC</li>
+<li>https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles</li>
+<li>https://www.dafont.com/space-age.font</li>
+<li>https://www.dafont.com/exo-space.font</li>
+
 <h2>Informații generale:</h2>
 <ul>
   <li>Categorie: Utilitar</li>
