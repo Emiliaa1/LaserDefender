@@ -3,7 +3,7 @@ ______________________________________
 Welcome to Laser Defender!
 ______________________________________
 
-<h2>Jocul poate fi instalat de aici: <a href="https://github.com/Emiliaa1/LaserDefender/blob/main/Laser%20Defender.exe">https://github.com/Emiliaa1/LaserDefender/blob/main/Laser%20Defender.exe</a>
+<h2>Jocul poate fi instalat de aici: 
 </h2>
 
 <h2>Pachete de resurse externe utilizate + alte resurse:</h2>
