@@ -8,7 +8,7 @@ ______________________________________
   <li>Categorie: Utilitar</li>
   <li>Județul: Vâlcea</li>
   <li>Surse: <a href="https://github.com/Emiliaa1/LaserDefender">https://github.com/Emiliaa1/LaserDefender</a>
-  <li>Script-urile c#: </li>
+  <li>Script-urile c#: <a href="https://github.com/Emiliaa1/LaserDefender/tree/main/Assets/Scripts">https://github.com/Emiliaa1/LaserDefender/tree/main/Assets/Scripts</a></li>
   </li>
 </ul>
 <h2>Aplicații utilizate:</h2>
