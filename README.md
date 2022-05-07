@@ -3,7 +3,7 @@ ______________________________________
 Welcome to Laser Defender!
 ______________________________________
 
-<h2>Jocul poate fi instalat de aici: 
+<h2>Pentru a accesa jocul descarca folder-ul LD Builds.
 </h2>
 
 <h2>Pachete de resurse externe utilizate + alte resurse:</h2>
